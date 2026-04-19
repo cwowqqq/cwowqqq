@@ -1,13 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=40&pause=1000&color=F72E2E&width=435&lines=cWOWq)](https://git.io/typing-svg)
 
-nothing to dev...
-just working in new OptiTool - OptiTweaks
-
-- Contacts:
-- mail cwowqqq@hotmail.com
-- youtube 
-- tiktok 
-- website (in development)
+new profile : https://github.com/javastackk
   
 ![](https://komarev.com/ghpvc/?username=cwowqqq&style=for-the-badge)
 
